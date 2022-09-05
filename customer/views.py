@@ -8,11 +8,6 @@ def home():
     return render_template('login.html')
 
 
-
-# my name is jancy
-
-
-
-################
-
-# surya
+@views.route('/settings')
+def settings():
+    return render_template('settings.html')
