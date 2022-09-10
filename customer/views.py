@@ -1,5 +1,5 @@
-from flask import Blueprint
-from flask import render_template
+from flask import Blueprint # blueprint - a collection of routes
+from flask import render_template # for rendering the html templates
 
 views = Blueprint("views", "__name__")
 
@@ -7,7 +7,3 @@ views = Blueprint("views", "__name__")
 def home():
     return render_template('login.html')
 
-
-@views.route('/settings')
-def settings():
-    return render_template('settings.html')
