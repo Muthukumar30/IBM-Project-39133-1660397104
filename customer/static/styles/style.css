@@ -60,3 +60,90 @@ nav ul li a:hover{
     width: 40px;
     height: 40px;
 }
+
+/********************************************************************************************/
+/* Login Section */
+.login-section{
+    width: 70%;
+    margin: 100px auto;
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.login-left, .login-right{
+    flex-basis: 45%;
+    align-items: center;
+}
+
+.login-form{
+    margin: 25px;
+}
+
+.login-form h3, .login-right h3{
+    text-align: start;
+    color: black;
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+
+label{
+    color: var(--grey-text);
+    font-size: 14px;
+    text-align: start;
+}
+
+.login-form .radio-btn{
+    height: 12px;
+    width: 12px;
+    margin-left: 5px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.login-form input{
+    width: 70%;
+    height: 35px;
+    text-indent: 10px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    margin-top: 5px;
+}
+
+.submit-btn{
+    margin-top: 5px;
+    width: 100px;
+    color: white;
+    padding: 10px 25px;
+    font-size: 15px;
+    background-color: var(--online-green);
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.login-form div{
+    width: 70%;
+    margin-top: 25px;
+}
+
+.login-form div a{
+    font-size: 14px;
+    color: blue;
+    padding-top: 10px;
+}
+
+.login-right div{
+    margin: 25px;
+}
+
+.login-right div ul li{
+    color: black;
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+
+.login-right div ul li::marker{
+    color: var(--grey-text);
+    font-size: 1.02em;
+}
