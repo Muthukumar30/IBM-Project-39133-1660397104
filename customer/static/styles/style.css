@@ -122,6 +122,10 @@ label{
     cursor: pointer;
 }
 
+.submit-btn:hover{
+    background-color: var(--dark-nav-bar);
+}
+
 .login-form div{
     width: 70%;
     margin-top: 25px;
