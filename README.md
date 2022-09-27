@@ -12,11 +12,11 @@
 
 <h3>Team details</h3>
 
-| Role | Names |
-| --- | --- |
-| Team Mentor | &emsp; Mrs. Sasikala T S |
-| Team Leader | &emsp; Bala Abinesh Surya B &emsp; &emsp; |
-| Team Members &emsp; | &emsp; 1. Abiram S P <br/> &emsp; 2. Aldrin Moses A <br/>&emsp; 3. Jancy T Raj |
+| Role | Reg. no | Names |
+| --- | :---: | --- |
+| Team Mentor | - | &emsp; Mrs. Sasikala T S |
+| Team Leader | 962319104029 | &emsp; Bala Abinesh Surya B &emsp; &emsp; |
+| Team Members &emsp; | 962319104005 <br/> 962319104014 <br/> 962319104046 | &emsp; Abiram S P <br/> &emsp; Aldrin Moses A <br/>&emsp; Jancy T Raj |
 
 <h3>Software Required</h3>
 
