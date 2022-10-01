@@ -38,9 +38,6 @@
 
 ![tech](https://user-images.githubusercontent.com/87432281/192336862-88b0337f-083e-456f-9bc0-9e3cbf0c283b.png)
 
-<h3>Empathy Map</h3>
-
-![empathy png](https://user-images.githubusercontent.com/87432281/192336398-b390db18-9cf0-4cb5-8fbd-bc5caa085cbb.png)
 
 
 
