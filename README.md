@@ -9,12 +9,14 @@
 | Team ID | &emsp; PNT2022TMID51925 &emsp; |
 | Team Size | &emsp; 4 &emsp; |
 | College Name | &emsp; Amrita College of Engineering and Technology, Nagercoil &emsp; |
+| College SPOC | &emsp; Mrs. Jothilakshmi S L |
 
 <h3>Team details</h3>
 
 | Role | Reg. no | Names |
 | --- | :---: | --- |
 | Team Mentor | - | &emsp; Mrs. Sasikala T S |
+| Team Evaluator | - | &emsp;  Mrs. Rejini K|
 | Team Leader | 962319104029 | &emsp; Bala Abinesh Surya B &emsp; &emsp; |
 | Team Members &emsp; | 962319104005 <br/> 962319104014 <br/> 962319104046 | &emsp; Abiram S P <br/> &emsp; Aldrin Moses A <br/>&emsp; Jancy T Raj |
 
