@@ -3,9 +3,7 @@ import ibm_db
 import re # regular expression
 
 blue_print = Blueprint("blue_print", "__name__")
-conn = ibm_db.connect(
-    'DATABASE=bludb;HOSTNAME=b70af05b-76e4-4bca-a1f5-23dbb4c6a74e.c1ogj3sd0tgtu0lqde00.databases.appdomain.cloud;PORT=32716;SECURITY=SSL;SSLServerCertificate=DigiCertGlobalRootCA.crt;UID=rnp46787;PWD=YWYLqKK21oOf0dDy', '', ''
-)
+conn = ibm_db.connect('DATABASE=bludb;HOSTNAME=b70af05b-76e4-4bca-a1f5-23dbb4c6a74e.c1ogj3sd0tgtu0lqde00.databases.appdomain.cloud;PORT=32716;SECURITY=SSL;SSLServerCertificate=DigiCertGlobalRootCA.crt;UID=rnp46787;PWD=KX5RE6zbCXU439Bt', '', '')
 
 @blue_print.route('/', methods = ['GET', 'POST'])
 def home():
