@@ -33,7 +33,6 @@
 * IBM Container Registry
 * IBM Watson Assistant
 * Kubernetes
-* Docker
 
 
 <h3>Overview</h3>
