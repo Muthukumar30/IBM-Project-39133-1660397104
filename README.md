@@ -26,6 +26,13 @@
 * Flask
 * Docker
 * SQL
+* HTML, Javascript
+* IBM Cloud
+* IBM Cloud Object Storage
+* IBM DB2
+* IBM Container Registry
+* IBM Watson Assistant
+* Kubernetes
 
 
 <h3>Overview</h3>
