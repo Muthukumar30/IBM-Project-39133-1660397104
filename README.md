@@ -20,7 +20,7 @@
 | Team Leader | 962319104029 | &emsp; Bala Abinesh Surya B &emsp; &emsp; |
 | Team Members &emsp; | 962319104005 <br/> 962319104014 <br/> 962319104046 | &emsp; Abiram S P <br/> &emsp; Aldrin Moses A <br/>&emsp; Jancy T Raj |
 
-<h3>Software Required</h3>
+<h3>Skills Required</h3>
 
 * Python
 * Flask
