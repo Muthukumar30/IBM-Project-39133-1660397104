@@ -26,7 +26,6 @@
 * SQL
 * HTML, Javascript
 * IBM Cloud
-* IBM Watson Assistant
 * Kubernetes
 
 
