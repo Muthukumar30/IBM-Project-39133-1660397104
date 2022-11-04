@@ -23,14 +23,9 @@
 <h3>Skills Required</h3>
 
 * Python
-* Flask
-* Docker
 * SQL
 * HTML, Javascript
 * IBM Cloud
-* IBM Cloud Object Storage
-* IBM DB2
-* IBM Container Registry
 * IBM Watson Assistant
 * Kubernetes
 
