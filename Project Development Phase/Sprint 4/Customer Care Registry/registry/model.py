@@ -56,12 +56,14 @@ class Admin(UserMixin):
     
 class Mail():
     # mail server essentials
+    from .secret import email, password
+
     smptpHost = "smtp.gmail.com"
     smtpPort = 587
-    mailUName = 'ccr.ibm.amrita2022@gmail.com'
-    mailPwd = 'ssloqprrkctdyxtz'
-    fromMail = 'ccr.ibm.amrita@gmail.com'
-
+    mailUName = email
+    mailPwd = password
+    fromMail = email
+    
     # mail body, subject
     mailSubject = ""
     mailContent = ''
